@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 games { 'gta5' }
 
-author "Celestic Network"
+author "Celestic Network Clothes as items"
 
 shared_scripts {
     '@qb-core/shared/locale.lua',
