@@ -8,7 +8,7 @@ Das was du brauchst :
 - qb-core
 - qb-shops
 - qb-inventory
-
+- Celestic_clothing ( überarbeitet von qb-clothing ) 
 --------------------
 
 Celestic_clothesitems ist inspiriert von keep-backpack.
@@ -23,6 +23,7 @@ What you need :
 - qb-core
 - qb-shops
 - qb-inventory
+- Celestic_clothing 
 
 ---------------------
 
@@ -36,3 +37,4 @@ LINKS :
 - qb-shops : https://github.com/qbcore-framework/qb-shops
 - qb-core : https://github.com/qbcore-framework/qb-core
 - qb-inventory : https://github.com/qbcore-framework/qb-inventory
+- Celestic_clothing ( SOON ) 
